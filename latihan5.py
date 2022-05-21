@@ -1,4 +1,4 @@
-#latihan 5: # Konversi Satuan Kaki, Satuan inci terhadap sentimeter
+#latihan 5: Konversi Satuan Kaki, Satuan inci terhadap sentimeter
 print("Program Konversi Satuan Tinggi Badan\n")
 Centimeter = float(input("Masukkan Ukuran Tinggi Badan (dalam cm):"))
 print("Tinggi Badan Kamu adalah :", Centimeter, "cm")
